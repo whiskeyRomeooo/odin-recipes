@@ -1,3 +1,9 @@
 * {
-    background-color: cadetblue;
+    background-color: #EEE9DA;
+    color: #6096B4;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.header {
+    color: darkcyan;
 }
